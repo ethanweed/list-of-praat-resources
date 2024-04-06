@@ -1,6 +1,6 @@
 # List of Praat resources
 
-Praat: you can't live with it, but you can't live without it. The number of wrappers that have been written for using Praat without actually using Praat is a testimonial to the simultaneous extreme usefulness and annoyingness of this software. So is the number of tutorials. This list is meant to collect useful links for people trying to do stuff with Praat, especially those just getting started. Praat is so good at what it does once you learn how to use it, but learning how to use it is so hard. Here are some things that may help. Contributions are welcome!
+Praat: for those of us who work with speech data, you can't live with it, but you can't live without it. The number of wrappers that have been written for using Praat without actually using Praat is a testimonial to the simultaneous extreme usefulness and annoyingness of this software. So is the number of tutorials. This list is meant to collect useful links for people trying to do stuff with Praat, especially those just getting started. Praat is so good at what it does once you learn how to use it, but learning how to use it is so hard. Here are some things that may help. Contributions are welcome!
 
 ## Praat and Praat scripting:
 
