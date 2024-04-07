@@ -27,7 +27,7 @@ http://www.eleanorchodroff.com/tutorial/PraatScripting.pdf
 Github repo with Praat scripting tutorials by Thea Knowles:
 https://github.com/thealk/Praat_tutorials/tree/master
 
-The best Praat scripting tutorial (100% guarantee):
+The best Praat scripting tutorial (100% guarantee). I don't know who this person is, but they are doing God's work. This is the most thorough and readable introduction to learning to script Praat that I have found. In my opinion, if you only look at one of these, make it this one:
 http://praatscriptingtutorial.com
 
 ---
