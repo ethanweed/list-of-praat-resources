@@ -44,7 +44,7 @@ http://praatscriptingtutorial.com
 Plotting vowels with Python:
 https://www.nickdanis.com/2021/06/03/how-to-make-a-vowel-chart-using-matplotlib/
 
-More plotting vowels with Python and Seaborn:
+More plotting vowels with Python and Seaborn (scripts by Emily Ramirez):
 https://lingmethodshub.github.io/content/python/vowel-plotting-py/index.html
 
 Textgridtools. Use Python to deal with textgrids, so you don't have to open Praat:
