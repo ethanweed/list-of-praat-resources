@@ -31,6 +31,9 @@ https://github.com/thealk/Praat_tutorials/tree/master
 Praat for beginners, by Sidney Wood. SWPhonetics (lots of other interesting phonetics and non-phonetics stuff here too, very much worth checking out)
 https://swphonetics.com/praat/
 
+My own collection of (primarily) Praat scripts. Some I have written myself, others I have stolen shamelessly:
+https://github.com/ethanweed/Speech-scripts
+
 The best Praat scripting tutorial (100% guarantee). I don't know who this person is, but they are doing God's work. This is the most thorough and readable introduction to learning to script Praat that I have found. In my opinion, if you only look at one of these, make it this one:
 http://praatscriptingtutorial.com
 
