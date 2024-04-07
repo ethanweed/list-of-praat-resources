@@ -50,6 +50,9 @@ https://parselmouth.readthedocs.io/en/stable/
 
 ## Other random stuff that might be useful:
 
+Introduction to Speech Processing (open access, creative commons online book on speech processing fundamentals, hosted by Aalto University)
+https://speechprocessingbook.aalto.fi/index.html
+
 IPA symbols: copy and pase:
 http://westonruter.github.io/ipa-chart/keyboard/
 
