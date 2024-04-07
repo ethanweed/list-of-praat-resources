@@ -10,6 +10,8 @@ http://phonetics.linguistics.ucla.edu/facilities/acoustic/praat.html#pictures
 The Praat manual. Almost never the place to start, but sometimes the only place you will find what you are looking for. But you will have to look.
 https://www.fon.hum.uva.nl/praat/manual/Intro.html
 
+Praat's own list of Praat tutorials: https://www.fon.hum.uva.nl/praat/manualsByOthers.html
+
 Using Praat for Linguistic Research by Will Styler (including an 85+ pdf showing you how to do stuff in Praat, which is a testimony to how inscrutable the actual Praat manual is)
 https://wstyler.ucsd.edu/praat/
 
@@ -21,6 +23,9 @@ http://user.keio.ac.jp/~kawahara/pdf/PraatScriptingDummies.pdf
 
 Praat scripting tutorial by Eleanor Chodroff
 http://www.eleanorchodroff.com/tutorial/PraatScripting.pdf
+
+Github repo with Praat scripting tutorials by Thea Knowles:
+https://github.com/thealk/Praat_tutorials/tree/master
 
 The best Praat scripting tutorial (100% guarantee):
 http://praatscriptingtutorial.com
