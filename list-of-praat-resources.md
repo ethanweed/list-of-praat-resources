@@ -4,6 +4,7 @@ I'm often looking for information on Praat, either for myself or for my teaching
 
 ## Praat and Praat scripting:
 
+
 Great UCLA Praat script repository (so much Praat stuff!):
 http://phonetics.linguistics.ucla.edu/facilities/acoustic/praat.html#pictures
 
@@ -52,6 +53,9 @@ https://parselmouth.readthedocs.io/en/stable/
 ---
 
 ## Other random stuff that might be useful:
+
+UCLA Phonetics Lab. I mean, c'mon. It's the UCLA phonetics lab. Founded by Peter Ladefoged in 1962. You know they've got the good stuff here:
+http://phonetics.linguistics.ucla.edu
 
 Introduction to Speech Processing (open access, creative commons online book on speech processing fundamentals, hosted by Aalto University)
 https://speechprocessingbook.aalto.fi/index.html
